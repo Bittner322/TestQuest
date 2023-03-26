@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TestQuest</string>
+
+    <!-- Settings -->
+    <string name="settings_dogs_api">Dogs API</string>
+    <string name="settings_nationality_api">Nationality API</string>
+    <string name="settings_custom_api">Custom API</string>
+
+    <!-- Main Activity -->
+    <string name="button_nationalize_text">Nationalize</string>
+    <string name="button_custom_api_text">Custom api</string>
+
+    <!-- Dialog Fragment -->
+    <string name="button_ok_text">OK</string>
+
+</resources>
